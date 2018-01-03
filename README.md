@@ -1,2 +1,2 @@
 # Hello-World
-Code learning 
+Code and Github learning 
